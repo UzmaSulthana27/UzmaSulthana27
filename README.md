@@ -17,7 +17,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=UzmaSulthan27&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UzmaSulthana27&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ### 🔥 GitHub Streak
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UzmaSulthan27&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UzmaSulthana27&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ### 📈 Most Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSulthan27&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSulthana27&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -41,6 +41,6 @@
 ### 🌱 Contributions Graph
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UzmaSulthan27&theme=radical" alt="Heatmap Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UzmaSulthana27&theme=radical" alt="Heatmap Productive Time" />
 </p>
 
