@@ -1,0 +1,119 @@
+.error{
+    color: red;
+}
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-image: url("../images/bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: fadeInBody 2s ease-out forwards;
+}
+
+@keyframes fadeInBody {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#login-container {
+     background-color: transparent;
+     backdrop-filter: blur(10px);
+    box-shadow: rgb(54, 54, 54) 0px 0px 20px;
+    margin-right: 500px;
+    padding: 40px 30px;
+    border-radius: 16px;
+    width: 350px;
+    height: 350px;
+    text-align: center;
+    animation: slideIn 2s ease-out forwards;
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #140c10;
+    font-size: 2em;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    text-align: left;
+    position: relative;
+}
+
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 12px 15px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 1em;
+    transition: 0.3s;
+    margin-bottom: 10px;
+}
+
+input[type="email"]:focus,
+input[type="password"]:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 5px #667eea55;
+}
+
+#sub-btn {
+    width: 100%;
+    padding: 12px;
+     background-color: palevioletred;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1em;
+    cursor: pointer;
+    margin-top: 30px;
+    transition: background 0.3s ease;
+}
+
+#sub-btn:hover {
+    background-color:rgb(220, 71, 120);
+}
+
+#form-footer {
+    margin-top: 30px;
+    font-size: 0.9em;
+    color: black
+}
+
+#form-footer a {
+    color:rgb(168, 40, 83);   
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+#form-footer a:hover {
+    text-decoration: underline;
+}

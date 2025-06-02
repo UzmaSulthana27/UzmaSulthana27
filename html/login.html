@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="../css/login.css">
+</head>
+<body>
+    <div id="login-page">
+        <div id="login-container">
+            <h1>Login</h1>
+            <form action="" id="login-form" novalidate>
+                <div id="form-group">
+                    <input type="email" id="email" placeholder="enter the email..."><br>
+                    <span class="error" id="emailError"></span>
+                </div>
+                <div id="form-group">
+                    <input type="password" id="pass" placeholder="enter the password..."><br>
+                    <span class="error" id="passError"></span>
+                </div>
+                <button type="submit" id="sub-btn">Login</button>
+            </form>
+            <div id="form-footer">
+                dont have an account?<a href="signup.html">Signup</a>
+            </div>
+        </div>
+    </div>
+    <script src="../javascript/login.js"></script>
+</body>
+</html>
