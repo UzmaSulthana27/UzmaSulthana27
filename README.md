@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Uzma Sulthana</h1>
 <h3 align="center">🚀 Full Stack Developer | 💡 Lifelong Learner | 🌍 Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Robot coding" width="500"/>
-</p>
-
 ---
 
 ### 👩‍💻 About Me
