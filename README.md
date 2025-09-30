@@ -37,19 +37,19 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uzma-sulthana-s&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UzmaSulthana27&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzma-sulthana-s&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UzmaSulthana27&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzma-sulthana-s&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSulthana27s&layout=compact&theme=radical" alt="Top Languages" />
 </p>
