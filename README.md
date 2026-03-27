@@ -1,55 +1,25 @@
-<h1 align="center">Hi 👋, I'm Uzma Sulthana S</h1>
-<h3 align="center">🚀 Full Stack Developer | Turning Ideas into Web Experiences</h3>
+# Welcome to My Portfolio
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/uzma-sulthana-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=uzma-sulthana-s&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## 👋 Hi there! I'm Uzma
 
----
+I am a passionate front-end developer with experience in creating engaging and user-friendly websites and applications. Below are some of my key skills:
 
-### 👩‍💻 About Me
-- 🔭 Building **modern, responsive web apps** with **React.js, Tailwind & Spring Boot**  
-- 🌱 Exploring **system design, backend optimization, and cloud integrations**  
-- 💡 Passionate about **clean code, UX, and innovative web solutions**  
-- 💬 Ask me about **HTML, CSS, JS, React, Tailwind, Spring Boot, Git, Postman**  
-- 🎯 Goal: Deliver **scalable apps that users love**
+- **HTML5 & CSS3**: Proficient in structuring and styling web pages.
+- **JavaScript**: Experienced in client-side scripting to enhance user interaction.
+- **Frameworks**: Familiar with frameworks such as React and Vue.js for building dynamic web applications.
 
----
+## 🌟 Featured Projects
 
-### 💻 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-</p>
+### Project 1: [Project Name](https://github.com/yourusername/project1)
+A brief description of project 1. What technologies you used and what you accomplished.
 
----
+### Project 2: [Project Name](https://github.com/yourusername/project2)
+A brief description of project 2. What technologies you used and what you accomplished.
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UzmaSulthana27&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### Project 3: [Project Name](https://github.com/yourusername/project3)
+A brief description of project 3. What technologies you used and what you accomplished.
 
----
+## 📫 Contact Me
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile) or [your-email@example.com](mailto:your-email@example.com).
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UzmaSulthana27&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSulthana27&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Preview of my work](link-to-your-image)
