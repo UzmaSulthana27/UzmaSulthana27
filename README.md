@@ -1,147 +1,108 @@
-<h1 align="center">Hi 👋, I'm Uzma Sulthana S</h1>
+# Hi, I'm Uzma Sulthana S 👋
 
-<!-- Animated Typing Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🎨+Front-End+Developer;💻+UI%2FUX+Enthusiast;🤖+AI+Integration+Learner;✨+Building+Beautiful+Experiences" alt="Typing SVG" />
-</p>
+**Front-End Developer** passionate about building clean, responsive, and user-friendly web applications. Currently exploring **AI integration** to create smarter, more interactive experiences.
 
-<!-- Animated Developer GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoRKslHVtqjXVIP0z/giphy.gif" width="300" alt="Developer working on desk" />
-</p>
-
-<h3 align="center">🎨 Front-End Developer | UI/UX Enthusiast | 🤖 AI Integration Learner | Building Beautiful Web Experiences</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/uzma-sulthana-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://uzma-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=vercel" alt="Portfolio" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=UzmaSulthana27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://uzma-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzma-sulthana-s)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzmasulthana2725@gmail.com)
 
 ---
 
-### 👩‍💻 About Me
+## 🎯 What I Do
 
-- 🎯 **Specializing in** responsive, accessible, and interactive web applications
-- 🔭 Building **modern, responsive web apps** with **React.js, Tailwind CSS & JavaScript**  
-- 🤖 **Exploring AI Integration** - Learning how to integrate OpenAI, ChatGPT, and modern AI tools into web applications
-- 🌱 Passionate about **clean code, pixel-perfect UX, and modern design patterns**
-- 💡 Focused on **performance optimization, animations, user experience, and AI-powered features**  
-- 💬 Ask me about **HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS, Git, AI APIs, Responsive Design**  
-- 🎯 Goal: Create **scalable, beautiful, AI-enhanced applications that users love**
+- Build **responsive, accessible web applications** with React and modern JavaScript
+- Focus on **clean code, performance optimization**, and pixel-perfect UI/UX
+- Experiment with **AI-powered features** using OpenAI APIs and modern ML tools
+- Transform designs into **production-ready, maintainable code**
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
-#### **Frontend Technologies**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-#### **Backend & Database**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-#### **🤖 AI & Machine Learning**
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</p>
-
-#### **Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
-</p>
+**AI & Tools**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-### 🌟 Featured Projects
+## 🚀 Featured Projects
 
-#### 📁 [Portfolio Website](https://github.com/UzmaSulthana27/portfolio) ⭐
-- **Live Demo:** [uzma-portfolio.vercel.app](https://uzma-portfolio.vercel.app/)
-- **Description:** A modern, responsive portfolio showcasing my front-end development skills
-- **Tech:** React, Tailwind CSS, JavaScript
-- **Highlights:** Smooth animations, responsive design, modern UI/UX
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UzmaSulthana27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+### 🎨 [Personal Portfolio](https://github.com/UzmaSulthana27/portfolio)
+**A modern, responsive portfolio showcasing my front-end development work**  
+🔗 [Live Demo](https://uzma-portfolio.vercel.app/)  
+**Tech:** React • Tailwind CSS • JavaScript  
+**Features:** Smooth animations, responsive design, optimized performance
 
 ---
 
-### 🔥 GitHub Streak
+### 🤖 AI-Powered Projects *(Coming Soon)*
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UzmaSulthana27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+I'm currently building projects that integrate AI capabilities:
 
----
+- **AI Chatbot Assistant** - React + OpenAI API integration with context memory
+- **Smart Task Manager** - Task recommendations powered by AI
+- **Content Generator** - AI-powered writing assistant for developers
 
-### 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSulthana27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+> 💡 **Want to collaborate on AI projects?** Let's connect!
 
 ---
 
-### 🎓 Currently Learning & Exploring
+## 📊 GitHub Stats
 
-- 🤖 **AI Integration in Web Applications** - OpenAI API, ChatGPT integration, prompt engineering
-- 🚀 **Advanced React patterns** & performance optimization
-- 🎨 **Advanced CSS animations** and transitions
-- 📱 **Progressive Web App (PWA)** development
-- ♿ **Web Accessibility (A11y)** best practices
-- 🔧 **Backend development** with Node.js & Express
-- 📊 **Building AI-powered features** - chatbots, recommendation systems, and predictive analytics
-- 🧠 **Machine Learning basics** with Python and TensorFlow
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UzmaSulthana27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-### 📞 Let's Connect!
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UzmaSulthana27&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/uzma-sulthana-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/UzmaSulthana27" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:uzmasulthana2725@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSulthana27&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>⭐ If you like my work, feel free to star my repositories!</i>
-</p>
+## 🌱 Currently Learning
 
-<p align="center">
-  <i>🚀 Currently working on exciting AI-powered projects!</i>
-</p>
+- 🤖 **AI Integration** - OpenAI API, prompt engineering, AI-powered UX
+- ⚛️ **Advanced React** - Performance optimization, custom hooks, state management
+- 🎨 **Modern CSS** - Animations, transitions, and advanced layouts
+- 📱 **PWA Development** - Building offline-first web applications
+- ♿ **Web Accessibility** - WCAG standards and inclusive design
+
+---
+
+## 💬 Let's Connect
+
+I'm always open to interesting projects and collaborations!
+
+- 💼 **Portfolio:** [uzma-portfolio.vercel.app](https://uzma-portfolio.vercel.app/)
+- 🔗 **LinkedIn:** [linkedin.com/in/uzma-sulthana-s](https://www.linkedin.com/in/uzma-sulthana-s)
+- 📧 **Email:** uzmasulthana2725@gmail.com
+- 💻 **GitHub:** You're already here!
+
+---
+
+<div align="center">
+
+**⭐ If you find my projects interesting, feel free to star them!**
+
+*"Building the web, one component at a time."*
+
+</div>
