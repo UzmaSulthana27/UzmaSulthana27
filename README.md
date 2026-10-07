@@ -1,164 +1,75 @@
-<div align="center">
+<h1 align="center">Hi, I'm Uzma Sulthana S 👋</h1>
 
-# 👋 Hi, I'm Uzma Sulthana S
+<p align="center">
+  <b>Full-stack developer (React · Node · Spring Boot) building AI-powered web apps</b><br/>
+  I like turning LLMs into products people actually use: interview coaches, code generators, team assistants.
+</p>
 
-### 💜 Front-End Developer | AI Enthusiast | Creative Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=BBuilding+Beautiful+Web+Experiences;Exploring+AI+Integration;Clean+Code+Advocate" alt="Typing SVG" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=UzmaSulthana27&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-A78BFA?style=for-the-badge&logoColor=white)](https://uzma-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzma-sulthana-s)
-[![Email](https://img.shields.io/badge/Email-Contact-C084FC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzmasulthana2725@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://uzma-portfolio.vercel.app">Portfolio</a> ·
+  <a href="https://linkedin.com/in/uzma-sulthana-s">LinkedIn</a> ·
+  <a href="mailto:uzmasulthana2725@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🎯 About Me
-```typescript
-const uzma = {
-    role: "Front-End Developer",
-    passion: ["Clean Code", "Responsive Design", "AI Integration"],
-    currentFocus: "Building smarter web experiences with AI",
-    dailyRoutine: ["Code", "Learn", "Create", "Repeat"],
-    lifePhilosophy: "Building the web, one component at a time 💜"
-};
-```
-<img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+## 🚀 Featured projects
 
+### 🟢 [Astra AI — Terminal Interviewer](https://github.com/UzmaSulthana27/Ai-Interview-Bot)
+An AI mock-interview platform with a hacker-terminal UI. It runs role-specific interviews across 16+ tracks (Java, MERN, System Design), adapts follow-up questions to your answers, and analyses your resume.
+`React` `Spring Boot` `Groq · Llama 3.3`
 
-### 🌟 What I Do
+### 🏗️ [Architect AI](https://github.com/UzmaSulthana27/Architect-ai)
+A prompt-to-app development console that generates production-ready web code with Gemini, using a secure Express proxy for model calls.
+`React 19` `Vite 6` `Node.js` `Express` `Gemini API`
 
-- 🎨 Craft **pixel-perfect, responsive** web applications
-- ⚡ Optimize for **performance & accessibility**
-- 🤖 Integrate **AI-powered features** into modern apps
-- 💡 Transform **designs into production-ready code**
-- 🚀 Constantly learning and **experimenting with new tech**
+### 🤖 [ChatTeam (BuddyBot)](https://github.com/UzmaSulthana27/BuddyBot)
+A real-time team chat with channels, file sharing, JWT authentication and an in-chat AI assistant you can summon with `@ai`.
+`React` `Node.js` `Socket.io` `MySQL` `JWT`
 
-<br clear="right"/>
+### 🛡️ [Phishing Website Detector](https://github.com/UzmaSulthana27/Phishing-website)
+A machine-learning web app that labels a URL as phishing or legitimate, using a Gradient Boosting classifier trained on URL features.
+`Python` `scikit-learn` `Flask` `Pandas`
 
----
+### 📊 [Crypto Tracker](https://github.com/UzmaSulthana27/Crypto_Tracker) · [Live](https://crypto-tracker-trading.vercel.app/)
+A real-time token price dashboard fed by a WebSocket stream, with price-direction indicators.
+`React` `WebSockets`
 
-## 💻 Tech Arsenal
+### ⚙️ [LinkedIn Automation PoC](https://github.com/UzmaSulthana27/linkedin_automation)
+A proof of concept in Go that automates login, discovery and messaging flows with the Rod library, run against mock pages only.
+`Go` `Rod` `Chrome DevTools Protocol`
 
-<div align="center">
+<details>
+<summary><b>More projects</b></summary>
 
-### Frontend Magic ✨
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+| Project | What it is | Stack |
+|---|---|---|
+| [CineVerse](https://github.com/UzmaSulthana27/CineVerse) | Movie discovery with search, genre filters and a watchlist | React |
+| [SpendSmart](https://github.com/UzmaSulthana27/SpendSmart) | Personal expense tracker | React |
+| [Spell Duel](https://github.com/UzmaSulthana27/Spell_duel) | Browser word game | React |
+| [ImgNest](https://github.com/UzmaSulthana27/ImgNest) | Image search and download | React |
+| [SpringBoot REST API](https://github.com/UzmaSulthana27/SpringBoot_RestApi) | REST API with Spring Boot | Java |
 
-### Backend & Database 🗄️
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### AI & Tools 🤖
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+</details>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech stack
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 Personal Portfolio
-**A modern showcase of my work**
-
-🔗 **[Live Demo](https://uzma-portfolio.vercel.app/)** | 📂 **[Repository](https://github.com/UzmaSulthana27/portfolio)**
-
-**Built with:**  
-`React` `Tailwind CSS` `JavaScript`
-
-✨ Smooth animations  
-✨ Fully responsive  
-✨ Optimized performance
-
-</td>
-<td width="50%">
-
-### 🤖 AI Projects
-**Coming Soon!**
-
-Currently building:
-- 💬 AI Chatbot Assistant
-- 📝 Smart Task Manager
-- ✍️ Content Generator
-
-*Want to collaborate? Let's connect!*
-
-</td>
-</tr>
-</table>
-
-</div>
+**Frontend:** React · JavaScript · Tailwind CSS · Vite · HTML/CSS
+**Backend:** Node.js · Express · Spring Boot (Java) · Flask · Go
+**Data:** MySQL · Pandas · scikit-learn
+**AI:** Gemini API · Groq / Llama · prompt engineering
+**Tools:** Git · Vercel · Socket.io · JWT
 
 ---
 
-## 📊 GitHub Analytics
+## 🌱 Currently
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UzmaSulthana27&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E9D5FF"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UzmaSulthana27&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=E9D5FF"/>
-</div>
+- Building more AI-native apps (agents, RAG, streaming UIs)
+- Going deeper on React performance and accessibility (WCAG)
+- Open to **internships, full-time roles and collaborations**. Say hi!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSulthana27&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E9D5FF&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UzmaSulthana27&theme=high-contrast&hide_border=true&bg_color=0D1117&color=A78BFA&line=C084FC&point=E9D5FF" width="100%"/>
-</div>
-
----
-
-## 🌱 Learning Journey
-
-<div align="center">
-
-| 🤖 AI Integration | ⚛️ Advanced React | 🎨 Modern CSS | 📱 PWA Development | ♿ Accessibility |
-|:---:|:---:|:---:|:---:|:---:|
-| OpenAI API | Custom Hooks | Animations | Offline-First | WCAG Standards |
-| Prompt Engineering | State Management | Advanced Layouts | Service Workers | Inclusive Design |
-| AI-Powered UX | Performance | Transitions | Push Notifications | Screen Readers |
-
-</div>
-
----
-
-## 🤝 Let's Build Something Together
-
-<div align="center">
-
-> **"The best way to predict the future is to create it."**
-
-I'm always excited about new projects and collaborations!
-
-<br>
-
-**💼 Portfolio** → [uzma-portfolio.vercel.app](https://uzma-portfolio.vercel.app/)  
-**🔗 LinkedIn** → [linkedin.com/in/uzma-sulthana-s](https://www.linkedin.com/in/uzma-sulthana-s)  
-**📧 Email** → uzmasulthana2725@gmail.com  
-**💻 GitHub** → You're already here! ⭐ Star my repos if you like them!
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=E9D5FF&animation=twinkling"/>
-
-</div>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSulthana27&layout=compact&hide_border=true" alt="Top languages"/>
+</p>
