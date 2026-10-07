@@ -17,26 +17,32 @@
 
 ### 🟢 [Astra AI — Terminal Interviewer](https://github.com/UzmaSulthana27/Ai-Interview-Bot)
 An AI mock-interview platform with a hacker-terminal UI. It runs role-specific interviews across 16+ tracks (Java, MERN, System Design), adapts follow-up questions to your answers, and analyses your resume.
+
 `React` `Spring Boot` `Groq · Llama 3.3`
 
 ### 🏗️ [Architect AI](https://github.com/UzmaSulthana27/Architect-ai)
 A prompt-to-app development console that generates production-ready web code with Gemini, using a secure Express proxy for model calls.
+
 `React 19` `Vite 6` `Node.js` `Express` `Gemini API`
 
 ### 🤖 [ChatTeam (BuddyBot)](https://github.com/UzmaSulthana27/BuddyBot)
 A real-time team chat with channels, file sharing, JWT authentication and an in-chat AI assistant you can summon with `@ai`.
+
 `React` `Node.js` `Socket.io` `MySQL` `JWT`
 
 ### 🛡️ [Phishing Website Detector](https://github.com/UzmaSulthana27/Phishing-website)
 A machine-learning web app that labels a URL as phishing or legitimate, using a Gradient Boosting classifier trained on URL features.
+
 `Python` `scikit-learn` `Flask` `Pandas`
 
 ### 📊 [Crypto Tracker](https://github.com/UzmaSulthana27/Crypto_Tracker) · [Live](https://crypto-tracker-trading.vercel.app/)
 A real-time token price dashboard fed by a WebSocket stream, with price-direction indicators.
+
 `React` `WebSockets`
 
 ### ⚙️ [LinkedIn Automation PoC](https://github.com/UzmaSulthana27/linkedin_automation)
 A proof of concept in Go that automates login, discovery and messaging flows with the Rod library, run against mock pages only.
+
 `Go` `Rod` `Chrome DevTools Protocol`
 
 <details>
@@ -56,10 +62,10 @@ A proof of concept in Go that automates login, discovery and messaging flows wit
 
 ## 🛠️ Tech stack
 
-**Frontend:** React · JavaScript · Tailwind CSS · Vite · HTML/CSS
-**Backend:** Node.js · Express · Spring Boot (Java) · Flask · Go
-**Data:** MySQL · Pandas · scikit-learn
-**AI:** Gemini API · Groq / Llama · prompt engineering
+**Frontend:** React · JavaScript · Tailwind CSS · Vite · HTML/CSS<br/>
+**Backend:** Node.js · Express · Spring Boot (Java) · Flask · Go<br/>
+**Data:** MySQL · Pandas · scikit-learn<br/>
+**AI:** Gemini API · Groq / Llama · prompt engineering<br/>
 **Tools:** Git · Vercel · Socket.io · JWT
 
 ---
